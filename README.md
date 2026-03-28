@@ -9,6 +9,7 @@
 
 - **QQ**：3604329062（备注来意）
 - **B站**：[Tensor正阳学长](https://space.bilibili.com/696304153)
+- **闲鱼搜索**：[Tensor正阳学长]()
 - **GitHub 源码仓库**：[原创毕设源码](#original-projects)
 
 
